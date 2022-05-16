@@ -1,0 +1,3 @@
+OrderNumber,CustomerName,State,TaxRate,ProductType,Area,CostPerSquareFoot,LaborCostPerSquareFoot,MaterialCost,LaborCost,Tax,Total
+14,Mike Bob,TX,4.45,Carpet,217.00,2.25,2.10,488.25,455.70,42.01,985.96
+15,Dave John,TX,4.45,Carpet,100,2.25,2.10,225.00,210.00,19.36,454.36

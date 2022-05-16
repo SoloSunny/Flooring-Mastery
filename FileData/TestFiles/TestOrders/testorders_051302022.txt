@@ -1,0 +1,2 @@
+OrderNumber,CustomerName,State,TaxRate,ProductType,Area,CostPerSquareFoot,LabourCostPerSquareFoot,MaterialCost,LaborCost,Tax,Total
+16,Peter Harryy,TX,4.45,Carpet,315.00,2.25,2.10,708.75,661.50,60.98,1431.23
